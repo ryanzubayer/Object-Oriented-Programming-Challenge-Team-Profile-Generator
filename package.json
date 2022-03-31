@@ -1,7 +1,7 @@
 {
   "name": "team-profile-generator",
   "version": "1.0.0",
-  "description": "[![License: MIT](https://img.shields.io/github/license/CailinBellWold/Team-Profile-Generator?style=plastic)](https://opensource.org/licenses/MIT)",
+  "description": "[![License: MIT]](https://opensource.org/licenses/MIT)",
   "main": "index.js",
   "directories": {
     "test": "test"
