@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+"
+    "url": "git+https://github.com/ryanzubayer/Object-Oriented-Programming-Challenge-Team-Profile-Generator"
   },
   "author": "Cailin Bell Wold",
   "license": "ISC",
